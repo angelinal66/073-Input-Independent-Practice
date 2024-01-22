@@ -1,0 +1,46 @@
+
+body {
+    text-align: center;
+    justify-content: space-between;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    position: center;
+    display:none;
+}
+
+.v {
+    margin: 15px;
+    padding: 5px;
+    width: 200px;
+    height: 10px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.SN {
+    margin: 15px;
+    padding: 5px;
+    width: 200px;
+    height: 10px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.snack{
+    margin-left: auto;
+    margin-right:auto;
+}
+.dinner{
+    margin-left:auto;
+    margin-right:auto;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
+.nv{
+    position:center;
+}
